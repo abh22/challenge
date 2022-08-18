@@ -1,0 +1,16 @@
+.footer{
+    
+   background-color: #21222a;
+   height: 90px;
+   margin: 0;
+   margin-bottom: 50px;
+   padding: 30px 25px;
+}
+.footer div{
+   font-size: 15px;
+   display: flex;
+   align-items:flex-start ;
+   flex-direction: row;
+   justify-content: space-between;
+   text-align: center;
+}
